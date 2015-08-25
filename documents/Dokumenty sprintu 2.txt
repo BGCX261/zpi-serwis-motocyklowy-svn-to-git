@@ -1,0 +1,14 @@
+D6. raport przegl¹du sprintu
+burndown chart - prognoza oraz wykonanie jednego sprintu (jednostki wymagañ)/ dni
+
+D7. zadania wykonane - 
+tabelka kolumny:
+id np (s1-W3.1), zadanie (np. budowa interfejsu), czas przewidywany (np 1 dzieñ) , czas wykonania (np . 1)
+opcjonalnie wykres ganta
+niewykonane zadania te¿ uwzglêdniæ
+
+D8. zmodyfikowany wykaz prac - produkt backlog, zachowaæ numeracjê wymagañ, zaznaczyæ i opisaæ róznicê nowych wymagañ z pierwszymi wymaganiami, nowe wymagania na koñcu z nowymi id
+
+D9. raport retrospekcji sprintu - z wnioskami co do sposobu prowadzenia prac, bundown chart odniesiony do ca³ego przedsiêwziêcia, 
+ocena stylu pracy, np zespó³ nie spotyka³ siê codziennie, z³e narzêdzia, czegoœ brakowa³o , wspó³praca nie wychodzi³a,
+co posz³o dobrzem co Ÿle i wnioski

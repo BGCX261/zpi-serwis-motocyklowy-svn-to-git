@@ -1,0 +1,79 @@
+c:\users\małgos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\małgos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\małgos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\małgos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\małgos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\małgos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\małgos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\małgos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+c:\users\małgos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+c:\users\małgos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Admin.resources
+c:\users\małgos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.prac.resources
+c:\users\małgos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Serw.resources
+c:\users\małgos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.baza.resources
+c:\users\małgos\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.dodaj.resources
+C:\PP\9sem\ZP\svn\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\PP\9sem\ZP\svn\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\PP\9sem\ZP\svn\branches\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\PP\9sem\ZP\svn\branches\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\PP\9sem\ZP\svn\branches\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+C:\PP\9sem\ZP\svn\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Admin.resources
+C:\PP\9sem\ZP\svn\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.baza.resources
+C:\PP\9sem\ZP\svn\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\PP\9sem\ZP\svn\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.dodaj.resources
+C:\PP\9sem\ZP\svn\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.prac.resources
+C:\PP\9sem\ZP\svn\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\PP\9sem\ZP\svn\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Serw.resources
+E:\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+E:\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+E:\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Admin.resources
+E:\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.baza.resources
+E:\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+E:\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.dodaj.resources
+E:\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.prac.resources
+E:\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Serw.resources
+E:\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\zpi2\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+E:\zpi2\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+E:\zpi2\branches\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\zpi2\branches\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\zpi2\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\zpi2\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Admin.resources
+E:\zpi2\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.baza.resources
+E:\zpi2\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+E:\zpi2\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.dodaj.resources
+E:\zpi2\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+E:\zpi2\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.prac.resources
+E:\zpi2\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\zpi2\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Serw.resources
+E:\zpi2\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+E:\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Mateusz\Desktop\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Mateusz\Desktop\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mateusz\Desktop\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Admin.resources
+C:\Users\Mateusz\Desktop\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.baza.resources
+C:\Users\Mateusz\Desktop\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Mateusz\Desktop\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.dodaj.resources
+C:\Users\Mateusz\Desktop\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Mateusz\Desktop\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Mateusz\Desktop\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.prac.resources
+C:\Users\Mateusz\Desktop\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Mateusz\Desktop\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Serw.resources
+C:\Users\Mateusz\Desktop\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Desktop\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Mateusz\Desktop\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mateusz\Desktop\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pracownik.resources
+C:\PP\9sem\ZP\svn\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\PP\9sem\ZP\svn\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+C:\PP\9sem\ZP\svn\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form3.resources
+C:\PP\9sem\ZP\svn\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form4.resources
+C:\PP\9sem\ZP\svn\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pracownik.resources
+C:\PP\9sem\ZP\svn\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Mateusz\Desktop\zpi-serwis-motocyklowy\branches\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form4.resources

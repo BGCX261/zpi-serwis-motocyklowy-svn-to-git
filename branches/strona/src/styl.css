@@ -1,0 +1,189 @@
+﻿body {
+background-image:url('bg.png');
+font-family: Arial, Tahoma, sans-serif;
+font-size: 0.8em;
+position: relative;
+text-align: center;
+width: 1000px;
+top: 20px;
+margin: 0 auto; 
+}
+
+div {
+ text-align: center;
+ margin: 0 auto 0 auto;
+}
+
+* {
+margin: 0;
+padding: 0;
+}
+
+ul {
+list-style-type: none;
+background-image: url(menubg.png);
+height: 70px;
+width: 1000px;
+margin: auto;
+}
+
+li {
+float: left;
+}
+
+ul a {
+background-image: url(sep.png);
+background-repeat: no-repeat;
+background-position: right;
+padding-right: 26px;
+padding-left: 27px;
+display: block;
+line-height: 60px;
+text-decoration: none;
+font-family: Arial, "Times New Roman", Times, serif;
+font-size: 40px;
+color: #0000cf;
+font-weight: bold;
+}
+
+ul a:hover {
+color: #FFF;
+}
+
+.teskt {
+width: 950px;
+clear: left;
+float: left;
+padding-left: 50px; 
+}
+
+#blok{
+width: 1000px;
+position: absolute;
+top: 140px;
+background-color: #00ddff;
+background-image: url(bg2.png);
+background-repeat: no-repeat;
+}
+
+#logo{
+width: 1000px;
+height: 200px;
+position: relative;
+}
+
+#mennu{
+width: 1000px;
+height: 70px;
+position: absolute;
+top: 200px;
+}
+
+#tab{
+width: 800px;
+height: 250px;
+overflow:scroll;
+overflow-x:hidden;
+}
+
+#tabela td {
+padding: 15px;
+}
+
+#dni{
+padding-left: 100px;
+}
+
+textarea {
+ background: url(formbg.png) center center no-repeat;
+ border: 1px solid #888;
+ resize: none;
+}
+
+.input {     
+border: 1px solid #888; 
+background: url(formbg2.png) center center no-repeat;
+}
+
+.button {
+    border: none;
+    background: url('up.png') no-repeat top left;
+    padding-left: 9px;
+	padding-top: 3px;
+	padding-right: 9px;
+	padding-bottom: 3px;
+}
+
+table
+{ 
+margin-left: auto;
+margin-right: auto;
+}
+
+.button:hover {
+    border: none;
+    background: url('pressed.png') no-repeat top left;
+    padding-left: 9px;
+	padding-top: 3px;
+	padding-right: 9px;
+	padding-bottom: 3px;
+}
+
+h1 {
+padding-left: 80px;
+}
+
+h2 {
+padding-left: 100px;
+}
+
+h3 {
+padding-left: 100px;
+}
+
+h4 {
+padding-left: 100px;
+}
+
+h5 {
+padding-left: 100px;
+}
+
+p {
+padding-left: 50px;
+}
+
+#form td{
+padding: 5px;
+}
+
+div.img
+  {
+  margin:2px;
+  border:1px solid #0000ff;
+  height:auto;
+  width:auto;
+  float:left;
+  text-align:center;
+  }
+div.img img
+  {
+  display:inline;
+  margin:3px;
+  border:1px solid #ffffff;
+  }
+div.img a:hover img
+  {
+  border:1px solid #0000ff;
+  }
+div.desc
+  {
+  text-align:center;
+  font-weight:normal;
+  width:200px;
+  margin:2px;
+  }
+  
+#galeria{
+padding-left: 163px;
+}
